@@ -1,0 +1,13 @@
+
+.contagem h1{
+    font-size: 20px;
+}
+
+.contagem h5{
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+.test{
+    border: solid red 1px;
+}
