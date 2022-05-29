@@ -1,3 +1,6 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
 
 .contagem h1{
     font-size: 20px;
@@ -8,6 +11,26 @@
     font-weight: 400;
 }
 
-.test{
-    border: solid red 1px;
+#imgCopa{
+    height: 10% !important;
 }
+#title{
+    font-size: 22px;
+}
+
+.title-card{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+#noticias{
+    font-weight: 700;
+    font-size: 25px;
+}
+
