@@ -1,15 +1,21 @@
 body{
-    font-family: 'Inter', sans-serif;
+    font-family: 'JetBrains Mono', monospace;
     
 }
 
 .contagem h1{
     font-size: 20px;
+    font-weight: 700;
 }
 
 .contagem h5{
     padding-top: 10px;
-    font-weight: 400;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.subtitle-card{
+    font-weight: 200;
 }
 
 #imgCopa{
@@ -21,7 +27,7 @@ body{
 
 .title-card{
     font-size: 12px;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .link{
@@ -35,3 +41,6 @@ body{
     font-size: 25px;
 }
 
+#imgCopa img{
+    width: 100%;
+}
