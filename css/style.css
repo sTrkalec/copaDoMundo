@@ -1,5 +1,6 @@
 body{
     font-family: 'JetBrains Mono', monospace;
+    padding: 0;
     
 }
 
@@ -16,10 +17,6 @@ body{
 
 .subtitle-card{
     font-weight: 200;
-}
-
-#imgCopa{
-    height: 10% !important;
 }
 #title{
     font-size: 22px;
