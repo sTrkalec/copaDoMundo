@@ -22,3 +22,8 @@ function resetCountdown() {
   count_down = new Date(`${date_end} 00:00:00`).getTime();
   x = setInterval(() => countDown(), second);
 }
+
+window.addEventListener("scroll", function(){
+  let nav = document.querySelector("nav")
+  nav.classList.toggle("fixed-top", window.scrollY > 5)
+})
